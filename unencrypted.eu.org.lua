@@ -3,8 +3,7 @@
 -- _a = "unencrypted.eu.org"
 
 -- A Records
-a(_a, "96.126.101.136", 1800)
-a("www", "96.126.101.136", 1800)
+aaaa(_a, "2600:3c01::f03c:91ff:fe70:15c5", 1800)
 
 -- TXT records
 txt("_acme-challenge", "nzV6VhQwQUuZwmADPaN4WspvKXsZUvOSsQK2HTfEBJg")
